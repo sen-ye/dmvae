@@ -60,20 +60,16 @@ torchrun --nproc_per_node=1 toy_example_2d/dmd.py --log_dir "your_exp_dir" --rea
 
 ### Stage 1. DMVAE Training Pipeline
 #### Step 1. Tokenizer Pretrain
-Example usage:
-
 ```bash
 bash scripts/train_tokenizer.sh
 ```
 
 #### Step 2. Reference Modelling
 
-Run `bash scripts/train_diffusion.sh` for reference modelling.
+`bash scripts/train_diffusion.sh`
 
 
 #### Step 3. DMD Training
-
-Example usage:
 
 ```bash
 bash scripts/train_dmd.sh
