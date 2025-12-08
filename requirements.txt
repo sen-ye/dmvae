@@ -1,0 +1,16 @@
+typed_argument_parser
+matplotlib
+opencv-python
+einops
+diffusers
+transformers
+timm
+torchmetrics
+wandb
+pytz
+pandas
+omegaconf
+fairscale
+safetensors
+torchdiffeq
+git+https://github.com/LTH14/torch-fidelity.git@master#egg=torch-fidelity
