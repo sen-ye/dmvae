@@ -65,8 +65,9 @@ bash scripts/train_tokenizer.sh
 ```
 
 #### Step 2. Reference Modelling
-
-`bash scripts/train_diffusion.sh`
+```bash
+bash scripts/train_diffusion.sh
+```
 
 
 #### Step 3. DMD Training
