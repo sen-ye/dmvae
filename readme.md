@@ -98,11 +98,14 @@ bash scripts/sample50k.sh
 If you find this repository useful in your research or applications, please consider citing:
 
 ```text
-@article{dmvae,
-  title   = {Distribution Matching Variational AutoEncoder},
-  author  = {Ye, Sen and Pei, Jianning and Xu, Mengde and Gu, Shuyang and Wang, Chunyu and Wang, Liwei and Hu, Han},
-  journal = {arXiv preprint  arXiv:2512.07778},
-  year    = {2025}
+@misc{dmvae,
+      title={Distribution Matching Variational AutoEncoder}, 
+      author={Sen Ye and Jianning Pei and Mengde Xu and Shuyang Gu and Chunyu Wang and Liwei Wang and Han Hu},
+      year={2025},
+      eprint={2512.07778},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.07778}, 
 }
 ```
 
