@@ -1,6 +1,6 @@
 # Distribution Matching Variational AutoEncoder (DMVAE)
 
-This repository contains the official implementation of the paper “Distribution Matching Variational AutoEncoder”.
+This repository contains the official implementation of the paper [“Distribution Matching Variational AutoEncoder”](https://arxiv.org/abs/2512.07778).
 
 > **Distribution Matching Variational AutoEncoder**  
 > Sen Ye, Jianning Pei, Mengde Xu, Shuyang Gu, Chunyu Wang, Liwei Wang, Han Hu  
@@ -101,7 +101,7 @@ If you find this repository useful in your research or applications, please cons
 @article{dmvae,
   title   = {Distribution Matching Variational AutoEncoder},
   author  = {Ye, Sen and Pei, Jianning and Xu, Mengde and Gu, Shuyang and Wang, Chunyu and Wang, Liwei and Hu, Han},
-  journal = {arXiv preprint arXiv:xxxx.xxxxx},
+  journal = {arXiv preprint  arXiv:2512.07778},
   year    = {2025}
 }
 ```
